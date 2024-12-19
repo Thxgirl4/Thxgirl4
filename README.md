@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Ana Júlia and I'm a Back-end developer, from Brasil</p>
+<p align="center">My name is Ana Júlia and I'm a Back-end developer, from Brazil</p>
 
 ###
 
