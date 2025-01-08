@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Ana Julia</h1>
 <h3 align="center">Sou desenvolvedora de Software, do Brasil</h3>
 
-- 🌱 Atualmente estou aprendendo **Ethical Hacking, Pentest**
+- 🌱 Atualmente estou aprendendo **Spring Boot, JUnit, Ethical Hacking, **
 
 - 📫 Como entrar em contato comigo **anajuliacastro967@gmail.com**
 
