@@ -12,7 +12,6 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/ana-julia-silva77b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ana-julia-silva77b" height="30" width="40" /></a>
 <a href="https://instagram.com/anacastrr111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anacastrr111" height="30" width="40" /></a> </p>
 
-<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
  <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -48,7 +47,6 @@
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
-</details>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thxgirl4&show_icons=true&locale=en&layout=compact" alt="thxgirl4" /></p>
 
