@@ -48,6 +48,7 @@
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
 
+<summary><h2>📊 Stats and Activity</h2></summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thxgirl4&show_icons=true&locale=en&layout=compact" alt="thxgirl4" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=thxgirl4&show_icons=true&locale=en" alt="thxgirl4" /></p>
