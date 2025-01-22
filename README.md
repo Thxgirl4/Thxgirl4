@@ -6,6 +6,7 @@
 - 📫 Como entrar em contato comigo **anajuliacastro967@gmail.com**
 
 - ⚡ Curiosidade **Sou apaixonada por desenvolvimento de jogos.**
+  https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnl0bWpqOWR4OHk5c3N0d3Z0YTJyaTh1dGg5ODZlN25taXZoZjA1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c76IJLufpNwSULPk77/giphy.gif
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
