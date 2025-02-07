@@ -1,57 +1,119 @@
-<h1 align="center">Olá 👋, sou Ana Julia</h1>
-<h3 align="center">Sou desenvolvedora de Software, do Brasil</h3>
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVtNDE0cTQxdmZnM3ZhYjFpc2ltcndiNWl2eWpsenp2NTFqeDN5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1tOuimUZbIeS4/giphy.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-- 🌱 Atualmente estou aprendendo **Spring Boot, JUnit, Ethical Hacking, **
+### <div align="center">I'm Ana Julia, a Back-end developer working remotely since 2023 💻</div>  
+  
 
-- 📫 Como entrar em contato comigo **anajuliacastro967@gmail.com**
+- 🔭 I’m currently working as a freelancer developer  
+  
 
-- ⚡ Curiosidade **Sou apaixonada por desenvolvimento de jogos.**
+- 🌱 I’m currently learning Spring-Boot, JUnit, JPA and Docker  
+  
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ana-julia-silva77b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ana-julia-silva77b" height="30" width="40" /></a>
-<a href="https://instagram.com/anacastrr111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anacastrr111" height="30" width="40" /></a> </p>
+- ⚡ Fun fact: I love gaming development (Unity fan)  
+  
 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
- <h3>👨‍💻 Programming and Markup Languages</h3>
+<br/>  
 
-  <p>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>    
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>    
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-  </p>   
-   
-   <h3>🧰 Frameworks and Libraries</h3>
 
-  <p>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-      <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-      <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
-  </p>
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
 
-  <p>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>     
-      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-  </p>
 
-<summary><h2>📊 Stats and Activity</h2></summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thxgirl4&show_icons=true&locale=en&layout=compact" alt="thxgirl4" /></p>
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+</div>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=thxgirl4&show_icons=true&locale=en" alt="thxgirl4" /></p>
+</td><td valign="top" width="33%">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thxgirl4&" alt="thxgirl4" /></p>
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Thxgirl4" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/m4dnsss" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ana-julia-silva77b" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/@anacastrr111" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Thxgirl4&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Thxgirl4&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center"></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
