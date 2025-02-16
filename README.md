@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as a freelancer developer  
   
 
-- 🌱 I’m learning Spring-Boot, JUnit, JPA and Docker  
+- 🌱 I’m learning Spring-Boot and Python  
   
 
 - ⚡ Fun fact: I love gaming development (Unity fan)  
