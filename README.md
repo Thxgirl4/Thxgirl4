@@ -3,16 +3,12 @@
 </div>  
   
 
-### <div align="center">I'm Ana Julia, a Back-end developer working remotely since 2023 💻</div>  
+### <div align="center">I'm Ana Julia, asoftware developer 💻</div>  
   
-
-- 🔭 I’m currently working as a freelancer developer  
   
 
 - 🌱 I’m learning Spring-Boot and Python  
-  
 
-- ⚡ Fun fact: I love gaming development (Unity fan)
 
 
 - Sou estudante de Análise e Desenvolvimento de Sistemas , com paixão por tecnologia e inovação. Meu principal objetivo é unir criatividade e técnica para desenvolver soluções eficientes que impactem positivamente a vida das pessoas.
