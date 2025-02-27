@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ana Julia, asoftware developer 💻</div>  
+### <div align="center">I'm Ana Julia, a software developer 💻</div>  
   
   
 
@@ -13,9 +13,9 @@
 
 - Sou estudante de Análise e Desenvolvimento de Sistemas , com paixão por tecnologia e inovação. Meu principal objetivo é unir criatividade e técnica para desenvolver soluções eficientes que impactem positivamente a vida das pessoas.
 
-Possuo experiência em desenvolvimento backend e frontend , utilizando tecnologias como Java, C#, Node.js, JavaScript, Express e EJS para construção de aplicações robustas e dinâmicas. Além disso, tenho conhecimento em HTML5, CSS e Bootstrap , garantindo interfaces responsivas e intuitivas. Trabalho com bancos de dados relacionados e não relacionados , incluindo PostgreSQL e MongoDB , e utiliza Git/GitHub para versionamento de código e colaboração eficiente.
+- Possuo experiência em desenvolvimento backend e frontend , utilizando tecnologias como Java, C#, Node.js, JavaScript, Express e EJS para construção de aplicações robustas e dinâmicas. Além disso, tenho conhecimento em HTML5, CSS e Bootstrap , garantindo interfaces responsivas e intuitivas. Trabalho com bancos de dados relacionados e não relacionados , incluindo PostgreSQL e MongoDB , e utiliza Git/GitHub para versionamento de código e colaboração eficiente.
 
-Sou uma profissional comunicativa, comprometida e colaborativa , sempre buscando aprimorar minhas habilidades técnicas e interpessoais. Acredito na importância da ética no trabalho e da empatia para atuar em equipes de alto desempenho. Com inglês intermediário , estou preparado para enfrentar desafios em ambientes dinâmicos e inovadores.
+- Sou uma profissional comunicativa, comprometida e colaborativa , sempre buscando aprimorar minhas habilidades técnicas e interpessoais. Acredito na importância da ética no trabalho e da empatia para atuar em equipes de alto desempenho. Com inglês intermediário , estou preparado para enfrentar desafios em ambientes dinâmicos e inovadores.
   
 
 <br/>  
