@@ -7,7 +7,7 @@
   
   
 
-- 🌱 I’m learning Spring-Boot and Python  
+- 🌱 I’m learning Python, Pandas and Geopandas  
 
 
 
