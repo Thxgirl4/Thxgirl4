@@ -7,10 +7,12 @@
   
   
 
-- 🌱 Python and Flask 
+- 🌱 Python and Flask for Data Science & Geospatial Data Analysis
 
 
-Skilled in Java and Python, with experience in MongoDB and PostgreSQL. My web development toolkit includes Flask, Node.js, JavaScript, Express.js, EJS, Bootstrap, HTML, and CSS, enabling full-stack project contributions. I'm adept with Git and Docker, committed to best practices in version control, code organization, and agile frameworks (Trello, Asana).
+Systems Analysis and Development student with a solid foundation in Data Science, Data Mining and Geospatial Data Analysis. My skills are focused on applying Python for data analysis and visualization, using essential libraries like Pandas, NumPy, Scikit-Learn, and GeoPandas. I have experience with predictive modeling and applying Machine Learning algorithms (clustering and classification).
+
+I am proficient in databases such as PostgreSQL and MongoDB, and in full-stack coding with Flask, JavaScript, HTML, and CSS for building data solutions and APIs. I am adept at modern development practices, including version control with Git and containerization with Docker, and I'm familiar with agile frameworks like Trello and Asana.
   
 
 <br/>  
