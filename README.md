@@ -1,23 +1,15 @@
 <div align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVtNDE0cTQxdmZnM3ZhYjFpc2ltcndiNWl2eWpsenp2NTFqeDN5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1tOuimUZbIeS4/giphy.gif" align="center" style="width: 100%" />
 </div>  
-  
-
 ### <div align="center">I'm Ana Julia, a software developer 💻</div>  
-  
-  
 
-- 🌱 Python and Flask for Data Science & Geospatial Data Analysis
-
-
-Systems Analysis and Development student with a solid foundation in Data Science, Data Mining and Data Analysis. My skills are focused on applying Python for data analysis and visualization, using essential libraries like Pandas, NumPy, Scikit-Learn, and GeoPandas. I have experience with predictive modeling and applying Machine Learning algorithms (clustering and classification).
-
-I am proficient in databases such as PostgreSQL and MongoDB, and in full-stack coding with Flask, JavaScript, HTML, and CSS for building data solutions and APIs. I am adept at modern development practices, including version control with Git and containerization with Docker, and I'm familiar with agile frameworks like Trello and Jira.
+- 🌱 Python for Data Science & Data Analysis
   
 
 # 💫 About Me:
-Atualmente trabalho com desenvolvimento de sistemas e analise de dados
+Systems Analysis and Development student with a solid foundation in Data Science, Data Mining and Data Analysis. My skills are focused on applying Python for data analysis and visualization, using essential libraries like Pandas, NumPy, Scikit-Learn, and GeoPandas. I have experience with predictive modeling and applying Machine Learning algorithms (clustering and classification).
 
+I am proficient in databases such as PostgreSQL and MongoDB, and in full-stack coding with Flask, JavaScript, HTML, and CSS for building data solutions and APIs. I am adept at modern development practices, including version control with Git and containerization with Docker, and I'm familiar with agile frameworks like Trello and Jira.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ana-julia-silva77b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anajuliacastro967@gmail.com) 
