@@ -17,6 +17,7 @@ I am proficient in databases such as PostgreSQL and MongoDB, and in full-stack c
 
 <br/>  
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ## Languages and Tools  
 <div align="center">
