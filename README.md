@@ -77,5 +77,13 @@ I am proficient in databases such as PostgreSQL and MongoDB, and in full-stack c
       />
     </td>
 
+    ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Thxgirl4/Thxgirl4/output/snake.svg" alt="Snake animation" />
+
+###
+
 --- 
 
