@@ -100,13 +100,6 @@ I am proficient in databases such as PostgreSQL and MongoDB, and in full-stack c
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thxgirl4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-    ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Thxgirl4/Thxgirl4/output/snake.svg" alt="Snake animation" />
-
-###
 
 --- 
 
