@@ -2,7 +2,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVtNDE0cTQxdmZnM3ZhYjFpc2ltcndiNWl2eWpsenp2NTFqeDN5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1tOuimUZbIeS4/giphy.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Ana Julia, a software developer 💻</div>
+### <div align="center">I'm Ana Julia, a software developer and data analyst 💻</div>
 
 - 🌱 Python for Data Science & Data Analysis
   
