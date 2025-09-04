@@ -10,9 +10,9 @@
 - 🌱 Python and Flask for Data Science & Geospatial Data Analysis
 
 
-Systems Analysis and Development student with a solid foundation in Data Science, Data Mining and Geospatial Data Analysis. My skills are focused on applying Python for data analysis and visualization, using essential libraries like Pandas, NumPy, Scikit-Learn, and GeoPandas. I have experience with predictive modeling and applying Machine Learning algorithms (clustering and classification).
+Systems Analysis and Development student with a solid foundation in Data Science, Data Mining and Data Analysis. My skills are focused on applying Python for data analysis and visualization, using essential libraries like Pandas, NumPy, Scikit-Learn, and GeoPandas. I have experience with predictive modeling and applying Machine Learning algorithms (clustering and classification).
 
-I am proficient in databases such as PostgreSQL and MongoDB, and in full-stack coding with Flask, JavaScript, HTML, and CSS for building data solutions and APIs. I am adept at modern development practices, including version control with Git and containerization with Docker, and I'm familiar with agile frameworks like Trello and Asana.
+I am proficient in databases such as PostgreSQL and MongoDB, and in full-stack coding with Flask, JavaScript, HTML, and CSS for building data solutions and APIs. I am adept at modern development practices, including version control with Git and containerization with Docker, and I'm familiar with agile frameworks like Trello and Jira.
   
 
 <br/>  
